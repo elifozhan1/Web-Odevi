@@ -1,3 +1,21 @@
+#carouselExampleIndicators{
+    width:500px;
+    height:300px;
+    margin-top: 50px;
+    margin-left: 500px;
+}
+#carouselExampleIndicators2{
+    width:500px;
+    height:300px;
+    margin-top: 50px;
+    margin-left: 0px;
+}
+#carouselExampleIndicators3{
+    width:500px;
+    height:300px;
+    margin-top: 50px;
+    margin-left: 0px;
+}
 .pm1{
     margin-top:30px;
     margin-left:235px;
@@ -72,7 +90,7 @@
 }
 .pm10{
     margin-top:30px;
-    margin-left:235px;
+    margin-left:-250px;
     height:235px;
     width:1000px;
     padding:50px;
@@ -80,7 +98,7 @@
 }
 .pm11{
     margin-top:30px;
-    margin-left:235px;
+    margin-left:-250px;
     height:300px;
     width:1000px;
     padding:50px;
@@ -88,7 +106,7 @@
 }
 .pm12{
     margin-top:30px;
-    margin-left:235px;
+    margin-left:-250px;
     height:320px;
     width:1000px;
     padding:50px;
@@ -96,7 +114,7 @@
 }
 .pm13{
     margin-top:30px;
-    margin-left:235px;
+    margin-left:-250px;
     height:170px;
     width:1000px;
     padding:50px;
@@ -104,7 +122,7 @@
 }
 .pm14{
     margin-top:30px;
-    margin-left:235px;
+    margin-left:-250px;
     height:170px;
     width:1000px;
     padding:50px;
